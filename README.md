@@ -1,32 +1,17 @@
-# Object Oriented Programming
+# Object-Oriented Programming
 
 ## Learning Goals
 
-- Learning Goal 1
-- Learning Goal 2
+- Discuss what Object-Oriented Programming (OOP) is.
 
-## Introduction
+## What is Object-Oriented Programming?
 
-A 1-2 sentence summary of what will be covered.
+Since the dawn of computers, how we program and write code has drastically changed. From FORTRAN to structured languages
+to now object-oriented programming.
 
-## Topic 1
-
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
-
-## Topic 2
-
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
-
-## Conclusion
-
-A short one or two paragraph summary of the contents of the lessons, recapping
-the learning goals.
-
-## Resources
-
-- [Resource Link 1](example.com)
-- [Resource Link 2](example.com)
+**Object-Oriented Programming (OOP)** is a model that is dependent upon the use of
+classes, objects, methods, and attributes. We will learn more about classes and objects in a later unit. But for now
+know that it focuses on those concepts rather than the logic. This means that the program is organized around the data
+points and what is being affected rather than the functionality. This approach makes it easier to manipulate the data,
+make modifications, and reuse code. These advantages that are built into languages like Java are what make OOP one of
+the most popular programming paradigms.
